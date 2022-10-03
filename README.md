@@ -7,4 +7,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ### Actualizado desde Github
-en este momento todos ustedes seran hackeados
+En este momento todos ustedes seran hackeados HDP
